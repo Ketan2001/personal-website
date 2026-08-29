@@ -3,35 +3,14 @@ title: "About"
 description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm Ketan (any pronouns).
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+I am currently working as a Machine Learning Scientist at [Wadhwani AI](https://www.wadhwaniai.org/), specializing in Computer Vision. I graduated from [IIT Roorkee](https://iitr.ac.in/) with an Integrated Masters in Applied Mathematics in 2024. Before Wadhwani, I was training large-scale generative models at [Gan.AI](https://in.linkedin.com/company/gan-studio-ltd). I also did a breif stint at [KLA](https://www.kla.com/) exploring self and semi-supervised learning for defect detection in images of semiconductor wafers.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+While I enjoyed building compute and power hungry systems early on, doing work that aligns with my personal values has become my primary focus. This shift is anchored by a thought from ecologist [Richard Levins](https://en.wikipedia.org/wiki/Richard_Levins):
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+> *Scholarship that is indifferent to human suffering is immoral.*
 
-## Features
+I strive to build a body of work that helps alleviate human and animal suffering. To this end, outside of work hours, I am learning introductory circuit theory to start tinkering with low cost hardware. Something that will hopefully lead me to create meaningful impact for underserved communities. I am deeply inspired by Professor [Manu Prakash's work in "frugal science"](https://prakashlab.stanford.edu/).
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+I have created this space to document my journey and learnings. Expect to find ML experiments, math notes, and open-source hardware projects.

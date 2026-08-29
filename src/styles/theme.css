@@ -11,24 +11,25 @@
 }
 
 /* Light theme values */
+/* Light theme values */
 :root,
 [data-theme="light"] {
-  --background: #fdfdfd;
-  --foreground: #282728;
-  --accent: #006cac;
+  --background: #fffcf7;
+  --foreground: #3a3330;
+  --accent: #ea6344;
   --accent-foreground: #ffffff;
-  --muted: #e6e6e6;
-  --muted-foreground: #6b7280;
-  --border: #ece9e9;
+  --muted: #f2eadf;
+  --muted-foreground: #736b66;
+  --border: #e8dcca;
 }
 
 /* Dark theme values */
 [data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --accent-foreground: #ffffff;
-  --muted: #343f60;
-  --muted-foreground: #afb9ca;
-  --border: #ab4b08;
+  --background: #23201e;
+  --foreground: #e5dfd8;
+  --accent: #f4a261;
+  --accent-foreground: #1a1716;
+  --muted: #3d3733;
+  --muted-foreground: #9a928c;
+  --border: #4a433e;
 }

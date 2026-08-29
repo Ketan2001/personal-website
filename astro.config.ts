@@ -1,3 +1,5 @@
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 import {
   defineConfig,
   envField,
@@ -38,10 +40,14 @@ export default defineConfig({
   markdown: {
     processor: unified({
       remarkPlugins: [
+	remarkMath,
         remarkToc,
         [remarkCollapse, { test: "Table of contents" }],
       ],
-      rehypePlugins: [rehypeCallouts],
+      rehypePlugins: [
+	rehypeCallouts,
+	rehypeKatex
+      ],
     }),
     shikiConfig: {
       themes: { light: "min-light", dark: "night-owl" },
